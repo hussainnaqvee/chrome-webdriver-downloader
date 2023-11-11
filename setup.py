@@ -11,7 +11,7 @@ setup(
     author_email='hussain.naqvee@gmail.com',
     description='A small package to download Chrome Webdriver for your Selenium projects.',
     keywords='Google, Chrome, Google Chrome, webdriver, Chrome Webdriver, Selenium',
-    url='https://github.com/hussainnaqvee/yourpackage',
+    url='https://github.com/hussainnaqvee/chrome-webdriver-downloader',
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
